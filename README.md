@@ -491,7 +491,7 @@ The `Apply` flow walks applicants through a clean, progress-tracked wizard. One-
 **Step 1 · Personal Information**
 Full name, contact details, Aadhaar, PAN, and city — captured and validated against government ID formats.
 
-<img src="screenshots/img4.png" alt="Personal Information step - empty form" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img4.png" alt="Personal Information step - empty form" width="100%"/>
 
 </td>
 <td width="50%">
@@ -499,7 +499,7 @@ Full name, contact details, Aadhaar, PAN, and city — captured and validated ag
 **Step 1 (filled) · Personal Information**
 The same step pre-filled via a demo profile, showing real-time validation in action.
 
-<img src="screenshots/img6.png" alt="Personal Information step - filled form" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img6.png" alt="Personal Information step - filled form" width="100%"/>
 
 </td>
 </tr>
@@ -509,7 +509,7 @@ The same step pre-filled via a demo profile, showing real-time validation in act
 **Step 2 · Loan & Credit Details**
 Loan amount, purpose, monthly income, CIBIL score slider, active loans, and EMI burden — the traditional underwriting inputs.
 
-<img src="screenshots/img7.png" alt="Loan and Credit Details step" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img7.png" alt="Loan and Credit Details step" width="100%"/>
 
 </td>
 <td width="50%">
@@ -517,7 +517,7 @@ Loan amount, purpose, monthly income, CIBIL score slider, active loans, and EMI 
 **Step 3 · Employment & Education**
 Employment type, employer, years of experience, education level, and certifications — signals that feed the alternative-data score.
 
-<img src="screenshots/img8.png" alt="Employment and Education step" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img8.png" alt="Employment and Education step" width="100%"/>
 
 </td>
 </tr>
@@ -527,7 +527,7 @@ Employment type, employer, years of experience, education level, and certificati
 **Step 4 · Alternative Data Signals**
 LinkedIn/GitHub profile links, bill-payment discipline score, monthly UPI transaction volume, and payment consistency — this is where CredAI goes beyond a credit bureau. A DPDP-compliance notice is shown inline.
 
-<img src="screenshots/img11.png" alt="Alternative Data Signals step" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img11.png" alt="Alternative Data Signals step" width="100%"/>
 
 </td>
 <td width="50%">
@@ -535,7 +535,7 @@ LinkedIn/GitHub profile links, bill-payment discipline score, monthly UPI transa
 **Step 5 · Document Upload & Verification**
 Aadhaar, PAN, bank statements, and salary slips are uploaded here — the intake point for the OCR/document-verification pipeline.
 
-<img src="screenshots/img10.png" alt="Document Upload step" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img10.png" alt="Document Upload step" width="100%"/>
 
 </td>
 </tr>
@@ -545,10 +545,10 @@ Aadhaar, PAN, bank statements, and salary slips are uploaded here — the intake
 A full recap of every section — personal info, loan request, professional details, and alternative signals — plus an explicit, checkbox-based **DPDP Act 2023** consent statement (with links to the privacy policy, RBI lending norms, and the explainability standard) before the applicant can submit.
 
 <p align="center">
-<img src="screenshots/img9.png" alt="Review and Submit step" width="85%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img9.png" alt="Review and Submit step" width="85%"/>
 </p>
 <p align="center">
-<img src="screenshots/img14.png" alt="Review step with DPDP consent checked" width="85%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img14.png" alt="Review step with DPDP consent checked" width="85%"/>
 </p>
 
 ---
@@ -558,20 +558,20 @@ A full recap of every section — personal info, loan request, professional deta
 Once submitted, the applicant lands on a personal credit dashboard — the heart of CredAI's explainability promise.
 
 <p align="center">
-<img src="screenshots/img3.png" alt="Track Application Status search page" width="70%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img3.png" alt="Track Application Status search page" width="70%"/>
 </p>
 <p align="center"><i>Applicants can also look up an existing application any time using their registered email.</i></p>
 
 The full result view shows a **0–100 AI Credit Risk Score** on a color-coded gauge, a **traditional vs. alternative data weight breakdown**, the raw application parameters, and a live **fraud-risk indicator** with the specific detected signal called out (e.g. *"Suspicious email pattern — possible bot-generated address"*).
 
 <p align="center">
-<img src="screenshots/img15.png" alt="Full applicant dashboard with risk gauge and composite weight breakdown" width="90%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img15.png" alt="Full applicant dashboard with risk gauge and composite weight breakdown" width="90%"/>
 </p>
 
 Scrolling further reveals the **AI Financial Health Score** — a 5-pillar radar chart (Savings, Income Stability, Expense Discipline, Debt Ratio, Investments) — alongside a **personalized AI Recommendation Engine** that gives the applicant concrete next steps to improve their score, and a **"what-if" EMI simulator** to test how timely vs. missed payments would move the score over time.
 
 <p align="center">
-<img src="screenshots/img16.png" alt="AI Financial Health radar chart and recommendation engine" width="90%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img16.png" alt="AI Financial Health radar chart and recommendation engine" width="90%"/>
 </p>
 
 ---
@@ -581,7 +581,7 @@ Scrolling further reveals the **AI Financial Health Score** — a 5-pillar radar
 Administrators get a real-time operations dashboard: total applications, approval rate, average risk score, and fraud rate at a glance, plus a **decision portfolio donut chart**, a **fraud severity breakdown**, and **average risk score by employment type** — everything needed to monitor the model's behavior across the whole applicant pool.
 
 <p align="center">
-<img src="screenshots/img5.png" alt="Admin Control Center risk analytics dashboard" width="95%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img5.png" alt="Admin Control Center risk analytics dashboard" width="95%"/>
 </p>
 
 ---
@@ -597,7 +597,7 @@ CredAI treats compliance as a first-class feature, not an afterthought — with 
 **RBI Digital Lending Guidelines**
 Direct disbursement & repayment, mandatory Key Fact Statements, transparent & auditable credit-decisioning logic, and a formal grievance-redressal path via the RBI Banking Ombudsman.
 
-<img src="screenshots/img1.png" alt="RBI Digital Lending Guidelines compliance modal" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img1.png" alt="RBI Digital Lending Guidelines compliance modal" width="100%"/>
 
 </td>
 <td width="50%">
@@ -605,7 +605,7 @@ Direct disbursement & repayment, mandatory Key Fact Statements, transparent & au
 **Digital Personal Data Protection (DPDP) Act 2023**
 Explicit consent & purpose limitation, applicant data-access/erasure rights, TLS 1.3 + AES-256 encryption with India-localized storage, and OAuth-authorized third-party data integrity.
 
-<img src="screenshots/img2.png" alt="DPDP Act 2023 compliance modal" width="100%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img2.png" alt="DPDP Act 2023 compliance modal" width="100%"/>
 
 </td>
 </tr>
@@ -618,7 +618,7 @@ Explicit consent & purpose limitation, applicant data-access/erasure rights, TLS
 Built and shipped from VS Code — a real look at the project structure and a live `git push` deploying the frontend and backend to production.
 
 <p align="center">
-<img src="screenshots/img17.png" alt="VS Code project structure and git deployment" width="90%"/>
+<img src="C:\Users\vijay\Downloads\Telegram Desktop\CredAI\CredAI\frontend\assets\img17.png" alt="VS Code project structure and git deployment" width="90%"/>
 </p>
 
 > 📁 All screenshots above live in [`screenshots/`](screenshots/) — replace or add to them as the product evolves.
